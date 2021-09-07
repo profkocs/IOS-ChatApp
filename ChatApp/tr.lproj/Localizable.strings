@@ -1,0 +1,16 @@
+/* 
+  Localization.strings
+  ChatApp
+
+  Created by Burak on 19.06.2021.
+  Copyright © 2021 profkocs. All rights reserved.
+*/
+
+"something_went_wrong" = "Hay Aksi! Bir Şeyler Ters Gitti.";
+"network_is_off" = "İnternet Bağlantısı Yok!";
+"textfield_is_empty" = "Bu Alan Boş Bırakılamaz!";
+"invalid_email" = "Email Geçersiz!";
+"invalid_code" = "Kod Geçersiz!";
+"invalid_password" = "Şifre Geçersiz!";
+"passwords_not_matched" = "Şifreler Eşleşmiyor!";
+"invalid_username" = "Geçersiz Kullanıcı Adı!";

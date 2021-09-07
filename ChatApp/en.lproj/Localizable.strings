@@ -1,0 +1,16 @@
+/* 
+  Localization.strings
+  ChatApp
+
+  Created by Burak on 19.06.2021.
+  Copyright © 2021 profkocs. All rights reserved.
+*/
+
+"something_went_wrong" = "Ooops! Something Went Wrong.";
+"network_is_off" = "Internet Connection is Off!";
+"textfield_is_empty" = "This Textfield Can't Be Empty!";
+"invalid_email" = "Email is Invalid!";
+"invalid_code" = "Code is Invalid!";
+"invalid_password" = "Invalid Password!";
+"passwords_not_matched" = "Passwords are not Matched!";
+"invalid_username" = "Invalid Username!";
